@@ -1,1 +1,1 @@
-# backup of my blocktube settings
+# backup of firefox extension settings
